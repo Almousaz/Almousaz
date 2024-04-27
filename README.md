@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I am  Ali 👋
+### Contact Me
+
+* Email : mousazada.ali@gmail.com
+* Linkedin : <a href="https://www.linkedin.com/in/ali-mousazada/">linkedin.com/ali-mousazada</a>
 
 <!--
 **Almousaz/Almousaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
