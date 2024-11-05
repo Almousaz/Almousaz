@@ -1,5 +1,5 @@
 ### Hi, I am  Ali 👋
-## I am frontend Developer
+## I am Software Engineer 
 ### Contact Me
 
 * Email : mousazada.ali@gmail.com
